@@ -1,0 +1,2 @@
+# portfolio
+Ohjelmointiin liittyviä asioita
